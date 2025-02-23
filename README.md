@@ -1,5 +1,5 @@
 # Opencart-Demo-website-Manual-Testing
-Introduction
+## Introduction
 This project involved detailed manual testing of the Opencart Demo website. The objective was to ensure the website's functionality and improve the overall user experience. The testing process included creating various documents to track testing efforts and report findings.
 
 Project Type
