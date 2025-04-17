@@ -1,36 +1,70 @@
-# Opencart-Demo-website-Manual-Testing
-## Introduction
-This project involved detailed manual testing of the Opencart Demo website. The objective was to ensure the website's functionality and improve the overall user experience. The testing process included creating various documents to track testing efforts and report findings.
+# OpenCart Manual Testing Project
 
-Project Type
-Manual Testing
+## 📄 Project Overview
+OpenCart is an open-source e-commerce platform.  
+The goal of this test cycle was to verify the **core functionalities**, ensure **performance benchmarks** are met, and identify any **bugs** or areas for improvement.
 
-## Features
-. Conducted exploratory testing on key features such as user signup and login, product search, and the checkout process.
-. Developed a detailed RTM (Requirements Traceability Matrix) to ensure all requirements were tested.
-. Created comprehensive test cases and scenarios for structured testing.
-. Identified critical bugs and usability issues documented in the bug report.
- ## Design Decisions or Assumptions
- .Assumed that the website's functionalities were aligned with the original Opencart website.
- . Emphasized exploratory testing to uncover issues beyond predefined test cases.
-## Installation & Getting Started
-This project is documentation-focused and does not require any installation. Simply review the reports and documents available in the repository to understand the testing process and outcomes.
+---
 
-## Usage
-Accessing Documentation: Navigate through the directories to locate specific reports and documents.
+##  Scope of Testing
+The testing process covers the following core functionalities:
+
+- User Registration & Login  
+- Product Browsing & Search  
+- Shopping Cart Functionality  
+- Checkout Process  
+- Payment Gateway Integration  
+- Order Management  
+- Admin Panel Operations  
+- Performance & Load Testing  
+- Security Testing  
+- Mobile Responsiveness  
+
+---
+##  Test Environment
+
+- **Browser Compatibility**: Chrome, Firefox, Edge  
+- **Operating Systems**: Windows  
+- **Devices**: Desktop  
+
+---
+##  Usage
+
+### Accessing Documentation
+Navigate through the directories to locate specific reports and documents.  
 Key documents include:
-Test Plan
-RTM Report
-Test Cases
-Bug Reports
-Execution Summary
-Use these documents to gain insights into the testing methodologies and results.
-Insights for Analysis: The documents can serve as reference material for improving testing processes, addressing defects, and planning future testing activities.
-## Technology Stack
- .Manual Testing Techniques: Used for identifying functionality and usability issues.
- .Documentation Tools: Leveraged tools for creating detailed reports, test cases, and mind maps.
-## Conclusion
-This project demonstrates a structured approach to manual testing, emphasizing both exploratory and predefined test scenarios. The generated documentation provides a clear picture of testing outcomes and helps stakeholders understand the testing efforts made to ensure a robust and user-friendly OpenCart website.
 
-Contact
-For further information or queries, please contact the project team.
+- Test Plan  
+- RTM (Requirement Traceability Matrix) Report  
+- Test Cases  
+- Bug Reports  
+- Execution Summary  
+
+These documents provide insights into the testing methodologies and results.
+
+---
+
+## Test Case Documentation
+
+All test cases are documented in a structured format, including:
+
+- **Test Case ID**  
+- **Test Scenario**  
+- **Preconditions**  
+- **Steps to Execute**  
+- **Expected Result**  
+- **Actual Result**  
+- **Status** (Pass/Fail)  
+- **Comments/Attachments**  
+
+---
+##  Technology Stack
+
+- **Manual Testing Techniques**:  
+  Used to identify functionality and usability issues.
+- **Documentation Tools**:  
+  Utilized for creating detailed reports, test cases, and mind maps.
+
+##  Conclusion
+This project demonstrates a structured approach to **manual testing**, emphasizing both **exploratory** and **predefined test scenarios**.  
+The generated documentation provides a clear picture of testing outcomes and helps stakeholders understand the efforts made to ensure a **robust and user-friendly OpenCart website**.
