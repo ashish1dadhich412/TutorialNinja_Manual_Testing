@@ -1,7 +1,7 @@
-# OpenCart Manual Testing Project
+# Tutorial-Ninja Manual Testing Project
 
 ## 📄 Project Overview
-OpenCart is an open-source e-commerce platform.  
+Tutorial-Ninja is an open-source e-commerce platform.  
 The goal of this test cycle was to verify the **core functionalities**, ensure **performance benchmarks** are met, and identify any **bugs** or areas for improvement.
 
 ---
